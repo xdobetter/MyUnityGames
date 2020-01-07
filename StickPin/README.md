@@ -7,4 +7,4 @@
 
 ## 运行效果
 
-<src img="stickPin.gif">
+![Pin](Pin.gif)
