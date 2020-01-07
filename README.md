@@ -14,4 +14,4 @@
 
 - 见缝插针
 
-  <img src="/StickPin/StickPin.gif">
+  <img src="/StickPin/Pin.gif">
